@@ -1,0 +1,11 @@
+PNR         : BM_22220812_101
+Train No    : 1003
+Train Name  : Udyan Express
+From        :Banglore
+To          : Mumbai
+Travel Date : 12/8/2222
+
+Passengers
+Name	Age	Gender	Fare
+Pratik	23	M	1500
+Total Price: 1500.0
